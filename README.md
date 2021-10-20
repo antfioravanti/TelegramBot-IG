@@ -1,5 +1,5 @@
 # TelegramBot-IG
- A Telegram bot used to increase the engagment rate of the users by crowdsourcing comments from other users.
+ A Telegram bot used to increase Instagram's engagment rate of the users' posts by crowdsourcing comments from other users. You can find it by searching on Telegram @InstaAcceleratorBot.
  
  ### How it works
  1. Text */accelerate* to the bot to initiate the conversation
